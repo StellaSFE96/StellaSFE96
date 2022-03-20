@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 🤔 I’m looking for an intership in frontend development
 📫 How to reach me: stella.samaranayake@outlook.com
 ⚡ Connect with me on Linkedin: www.linkedin.com/in/stella-samaranayake
+:)
