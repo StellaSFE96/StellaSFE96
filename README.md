@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - ⚡ Connect with me on Linkedin: www.linkedin.com/in/stella-samaranayake
 -->
 
-- 🔭 I just graduated from the IT College in Stockholm where i studied Frontend development
-- 🌱 I’m currently deep diving into React.js and Typescript
+- 🔭 I studied Frontend development
+- 🌱 I currently build a lot with React.js and Typescript, but i'm always open to learn more
 - 🤔 I’m looking for a position in Frontend development
 - 📫 How to reach me: stella.samaranayake@outlook.com
 - ⚡ Connect with me on Linkedin: www.linkedin.com/in/stella-samaranayake
-- 💻 Checkout my portfolio website: www.stellasam.dev
+- 💻 Checkout my portfolio website: www.stellasam.dev (update underway!)
 
